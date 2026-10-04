@@ -1,5 +1,176 @@
-# Example only — verify directives before deploying.
+# ShowMyPhoto robots.txt
+# Maximum crawlability for search engines, AI search systems and web crawlers.
+# Public website content is crawlable unless explicitly disallowed below.
+# Reviewed against current (2026) AI crawler user-agent tokens.
+
+# ==================================================
+# DEFAULT - MAXIMUM CRAWLABILITY
+# ==================================================
+
 User-agent: *
 Allow: /
+
+# ==================================================
+# GOOGLE SEARCH
+# ==================================================
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# ==================================================
+# BING / MICROSOFT
+# ==================================================
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: MSNBot
+Allow: /
+
+# ==================================================
+# AI TRAINING CRAWLERS
+# Bulk crawl used to train foundation models.
+# ==================================================
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Ai2Bot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+# ==================================================
+# AI SEARCH / ANSWER-ENGINE INDEX CRAWLERS
+# Build the index that AI answers and citations are pulled from.
+# ==================================================
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: xAI-Bot
+Allow: /
+
+# ==================================================
+# AI USER-TRIGGERED FETCHERS
+# Fetch a single page live because a person asked an assistant about it.
+# ==================================================
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+# ==================================================
+# SOCIAL / CONTENT DISCOVERY CRAWLERS
+# ==================================================
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Facebot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# ==================================================
+# SEO / SITE AUDIT CRAWLERS
+# Allow legitimate SEO crawlers to access the public site.
+# ==================================================
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: MJ12bot
+Allow: /
+
+# ==================================================
+# AI-READABLE SITE INFORMATION
+# Structured information for AI systems:
+# https://showmyphoto.com/llms.txt
+# https://showmyphoto.com/llms-full.txt
+# ==================================================
+
+# ==================================================
+# SITEMAP
+# ==================================================
 
 Sitemap: https://showmyphoto.com/sitemap.xml
