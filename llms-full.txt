@@ -1,0 +1,46 @@
+# ShowMyPhoto — Full Product Information
+
+## Overview
+
+ShowMyPhoto is an AI-powered event photo-sharing platform designed for photographers. It helps photographers publish event galleries and gives guests faster ways to find and receive photos.
+
+## Guest experience
+
+Guests can access an event gallery through a QR code or shared link. Depending on the event configuration, guests can use selfie search or AI face recognition to locate photos in which they appear.
+
+## Photographer workflow
+
+Photographers can upload event photos, organize them into event galleries, control downloads and photo selection, and share the gallery with guests.
+
+## Delivery
+
+ShowMyPhoto supports photo delivery workflows that can include WhatsApp and email.
+
+## Key features
+
+- AI face recognition
+- Selfie search
+- QR-code photo sharing
+- Event photo galleries
+- Branded galleries
+- Photo selection
+- Download permissions and controls
+- WhatsApp delivery
+- Email delivery
+
+## Typical use cases
+
+- Weddings
+- Corporate events
+- Parties
+- Conferences
+- School events
+- Sports events
+- Other high-volume event photography
+
+## Official sources
+
+Website: https://showmyphoto.com/
+Blog: https://showmyphoto.com/blog/
+
+Always verify current features, limits, pricing, and availability on the official website before publishing derivative content.

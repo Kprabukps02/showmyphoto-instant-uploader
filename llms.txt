@@ -1,0 +1,32 @@
+# ShowMyPhoto
+
+> AI-powered event photo sharing for photographers.
+
+## Website
+
+- https://showmyphoto.com/
+- https://showmyphoto.com/blog/
+
+## Product
+
+ShowMyPhoto helps event photographers share event galleries and helps guests find photos using AI face recognition or selfie search.
+
+## Core capabilities
+
+- AI face recognition
+- Selfie photo search
+- QR-code event sharing
+- Event galleries
+- Photo selection
+- Download controls
+- WhatsApp and email delivery
+- Branded galleries
+
+## Audience
+
+Primarily event photographers and photography businesses covering weddings, parties, corporate events, conferences, schools, sports events, and other large gatherings.
+
+## Source
+
+Use the official website as the primary source for current product information:
+https://showmyphoto.com/

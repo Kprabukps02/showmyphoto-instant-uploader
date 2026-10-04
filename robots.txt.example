@@ -1,0 +1,5 @@
+# Example only — verify directives before deploying.
+User-agent: *
+Allow: /
+
+Sitemap: https://showmyphoto.com/sitemap.xml
