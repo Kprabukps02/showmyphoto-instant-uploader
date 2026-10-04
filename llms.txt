@@ -1,32 +1,536 @@
 # ShowMyPhoto
 
-> AI-powered event photo sharing for photographers.
+> ShowMyPhoto is an AI-powered event photo sharing and photo delivery platform for photographers, photography studios, and event teams. Guests find their own event photos in seconds using AI selfie-based facial recognition or a QR code — no app install and no guest account required.
 
-## Website
+## Key Facts (Quick Answers)
 
-- https://showmyphoto.com/
-- https://showmyphoto.com/blog/
+- Category: AI event photo sharing / photo delivery SaaS platform
+- Core capability: AI face recognition + selfie search to find guest photos in an event gallery
+- Guest access: QR code or link, no app download, no login/account required
+- Compliance: GDPR and India DPDPA compliant (see [Privacy Policy](https://showmyphoto.com/privacy-policy/#data-protection))
+- Delivery channels: in-gallery download, WhatsApp, email
+- Social proof (as reported on the official site): 2,000+ users, 3,000+ events served, 3,000,000+ photos shared
+- Pricing: free Trial plan ($0, no credit card), paid plans from $25 (Single Event) up to $500 (Enterprise); see [Pricing](https://showmyphoto.com/pricing/) for current details — prices may be adjusted by region
+- Parent company: Sanjay Systems
+- Headquarters: #5, 1st Street, S.B.O. Second Colony, Bypass Road, Madurai, Tamil Nadu 625016, India
+- Phone (calls): +91 98421 38433
+- WhatsApp business chat: [WhatsApp Business Chat](https://wa.me/919361863466)
+- Email: support@showmyphoto.com
+- Social profiles: [Show Myphoto](https://x.com/show_myphoto) | [Showmyphotoapp](https://www.instagram.com/showmyphotoapp/) | [Profile.Php](https://www.facebook.com/profile.php?id=61558771958185) | [@Showmyphoto](https://www.youtube.com/@showmyphoto)
 
-## Product
+## Primary Pages
 
-ShowMyPhoto helps event photographers share event galleries and helps guests find photos using AI face recognition or selfie search.
+- Homepage: [ShowMyPhoto Homepage](https://showmyphoto.com/)
+- Pricing: [Pricing](https://showmyphoto.com/pricing/)
+- FAQ: [Faq](https://showmyphoto.com/faq/)
+- Blog: [Blog](https://showmyphoto.com/blog/)
+- Contact: [Contact Us](https://showmyphoto.com/contact-us/)
+- Register: [Register](https://showmyphoto.com/register/)
+- Guest Event Access: [Guest Home](https://showmyphoto.com/event/guest-home/)
+- Login: [Login](https://showmyphoto.com/login/)
+- Privacy Policy: [Privacy Policy](https://showmyphoto.com/privacy-policy/)
+- Terms and Conditions: [Terms And Conditions](https://showmyphoto.com/terms-and-conditions/)
+- Shipping and Refund Policy: [Shipping Refund Policy](https://showmyphoto.com/shipping-refund-policy/)
+- Data Removal Request: [Request Data Removal](https://showmyphoto.com/request_data_removal/)
 
-## Core capabilities
+## Downloads
 
-- AI face recognition
-- Selfie photo search
-- QR-code event sharing
-- Event galleries
+- Windows Instant Uploader: [Show My Photo Setup.exe](https://myinstashare.s3.ap-south-1.amazonaws.com/Show_My_Photo_Setup.exe)
+- QR Code Templates: [QR code Templates.zip](https://myinstashare.s3.ap-south-1.amazonaws.com/QR+code+Templates.zip)
+
+## Product Overview
+
+ShowMyPhoto is a B2B SaaS platform focused on event photography workflows.
+
+The platform connects event photographers, event photographs, AI-powered photo discovery, online galleries, QR-based access and photo delivery.
+
+The primary workflow is:
+
+1. A photographer or event team creates an event and generates a QR code or search link.
+2. Event photographs are uploaded to ShowMyPhoto (including during the event itself via the Instant Uploader).
+3. The AI automatically detects and indexes every face in the uploaded photographs.
+4. Guests access the event gallery using a QR code or event link — no app or account needed.
+5. A guest takes or uploads a selfie.
+6. ShowMyPhoto matches the selfie against the indexed faces and returns only that guest's photos, privately.
+7. The guest views, downloads, and can mark favorite photographs.
+8. Photographs can be delivered through the gallery, WhatsApp, or email, and downloads can be watermarked or download-restricted by the photographer.
+
+Guests never see the full public event gallery — only photos matched to their own face.
+
+## Core Capabilities
+
+- AI facial recognition for event photographs
+- Selfie-based photo search
+- AI-powered event photo discovery
+- QR code event photo sharing
+- Online event photo galleries
+- Real-time / instant-upload event photo sharing during live events
+- WhatsApp photo delivery
+- Email photo delivery
+- Guest photo selection (favoriting, ready-to-print album lists)
+- Photo download controls (enable/disable downloads per event)
+- Watermarking (automatic, with custom text or logo per event)
+- Photographer and studio branding on galleries
+- Guest information capture (email, phone) for follow-up and marketing
+- Event photo organization and unlimited storage
+- Personalized photo discovery
+- No-app guest access
+- No-login guest access
+- Multi-photographer event workflows
+- GDPR and India DPDPA compliant data handling
+
+## AI Facial Recognition
+
+ShowMyPhoto uses facial recognition to help guests locate photographs in which they appear.
+
+When a photographer uploads event photos, the AI automatically detects and indexes every face in the gallery. A guest then takes a single selfie, and the system matches it against the indexed faces in seconds, returning only that guest's photos.
+
+Related resources:
+
+- [Selfie Search Event Photos](https://showmyphoto.com/blog/selfie-search-event-photos/)
+- [Ai Face Recognition Photo Search](https://showmyphoto.com/blog/ai-face-recognition-photo-search/)
+- [Face Recognition Photo Sharing Event Photographers](https://showmyphoto.com/blog/face-recognition-photo-sharing-event-photographers/)
+
+## Selfie Photo Search
+
+Selfie search is a guest-facing photo discovery workflow.
+
+A guest provides a selfie and the system searches the event photographs for matching faces.
+
+This is particularly useful for weddings, corporate events, school events, college festivals, sports events, conferences and other events where photographers capture large numbers of images.
+
+Related resources:
+
+- [Selfie Search Event Photos](https://showmyphoto.com/blog/selfie-search-event-photos/)
+- [Ai Face Recognition Photo Search](https://showmyphoto.com/blog/ai-face-recognition-photo-search/)
+- [Face Recognition Photo Sharing Event Photographers](https://showmyphoto.com/blog/face-recognition-photo-sharing-event-photographers/)
+- [Guest Photo Uploads Ai Sorting Events](https://showmyphoto.com/blog/guest-photo-uploads-ai-sorting-events/)
+
+## QR Code Photo Sharing
+
+ShowMyPhoto supports QR-based access to event photo galleries.
+
+Guests can scan an event QR code and access the relevant photo-sharing experience without requiring a dedicated mobile application.
+
+Related resources:
+
+- [Qr Code Photo Sharing Events](https://showmyphoto.com/blog/qr-code-photo-sharing-events/)
+- [Qr Code Photo Sharing Event Photographers Guide](https://showmyphoto.com/blog/qr-code-photo-sharing-event-photographers-guide/)
+- [Qr Code Photo Sharing Vs Usb Event Photos](https://showmyphoto.com/blog/qr-code-photo-sharing-vs-usb-event-photos/)
+- [Best Qr Code Photo Sharing Platform](https://showmyphoto.com/blog/best-qr-code-photo-sharing-platform/)
+
+## WhatsApp and Email Photo Delivery
+
+ShowMyPhoto supports event photo delivery through WhatsApp and email workflows, so guests can receive their matched photos directly wherever they are.
+
+Related resource:
+
+- [Send Event Photos Whatsapp Email](https://showmyphoto.com/blog/send-event-photos-whatsapp-email/)
+
+## Real-Time Event Photo Sharing
+
+ShowMyPhoto supports workflows where event photographs can be uploaded and made available during or shortly after an event, using a Windows Instant Uploader that sends captured photos to the event gallery automatically.
+
+This can be useful for weddings, live events, photo booths, corporate events, conferences and other events where attendees expect fast access to photographs.
+
+Related resources:
+
+- [Real Time Event Photo Sharing Photographers](https://showmyphoto.com/blog/real-time-event-photo-sharing-photographers/)
+- [Real Time Wedding Photo Delivery](https://showmyphoto.com/blog/real-time-wedding-photo-delivery/)
+- [Real Time Photo Delivery Photo Booth Live Events](https://showmyphoto.com/blog/real-time-photo-delivery-photo-booth-live-events/)
+- [Live Event Photo Slideshows Ai Galleries](https://showmyphoto.com/blog/live-event-photo-slideshows-ai-galleries/)
+- [Instant Event Gallery Platform](https://showmyphoto.com/blog/instant-event-gallery-platform/)
+
+## Event Photo Galleries
+
+ShowMyPhoto provides online event photo gallery workflows for photographers and event teams.
+
+The gallery workflow connects event photographs with guest access, selfie search, QR access, photo selection and downloading.
+
+Related resources:
+
+- [Instant Event Gallery Platform](https://showmyphoto.com/blog/instant-event-gallery-platform/)
+- [Mobile Event Photo Galleries Guests Love](https://showmyphoto.com/blog/mobile-event-photo-galleries-guests-love/)
+- [Corporate Event Photo Gallery Experience](https://showmyphoto.com/blog/corporate-event-photo-gallery-experience/)
+- [Google Drive To Event Photo Gallery](https://showmyphoto.com/blog/google-drive-to-event-photo-gallery/)
+- [Private Photo Sharing Events Weddings](https://showmyphoto.com/blog/private-photo-sharing-events-weddings/)
+
+## Event Photographers and Photography Studios
+
+ShowMyPhoto is primarily relevant to professional photographers and photography businesses that need to manage and deliver photographs from events.
+
+Typical users include:
+
+- Wedding photographers
+- Event photographers
+- Photography studios
+- Photography agencies
+- Corporate event photographers
+- School photographers
+- College event photographers
+- Sports event photographers
+- Conference and event photographers
+
+Related resources:
+
+- [Ai Photo Sharing Platform Event Photographers](https://showmyphoto.com/blog/ai-photo-sharing-platform-event-photographers/)
+- [Choose Ai Photo Sharing Platform Photographers](https://showmyphoto.com/blog/choose-ai-photo-sharing-platform-photographers/)
+- [Event Photo Sharing Best Practices Photographers](https://showmyphoto.com/blog/event-photo-sharing-best-practices-photographers/)
+- [Organize 1000 Plus Event Photos Workflow](https://showmyphoto.com/blog/organize-1000-plus-event-photos-workflow/)
+- [Ai Photo Sharing Saves Photographers Hours](https://showmyphoto.com/blog/ai-photo-sharing-saves-photographers-hours/)
+
+## Wedding Photography
+
+ShowMyPhoto supports wedding photo sharing and photo delivery workflows.
+
+Relevant capabilities include selfie-based photo discovery, QR gallery access, real-time photo delivery and guest photo selection.
+
+Related resources:
+
+- [Ai Photo Sharing Wedding Photographers Guide](https://showmyphoto.com/blog/ai-photo-sharing-wedding-photographers-guide/)
+- [Wedding Photo Delivery Workflow](https://showmyphoto.com/blog/wedding-photo-delivery-workflow/)
+- [Real Time Wedding Photo Delivery](https://showmyphoto.com/blog/real-time-wedding-photo-delivery/)
+- [Photo Selection Workflow Wedding Album Design](https://showmyphoto.com/blog/photo-selection-workflow-wedding-album-design/)
+- [Private Photo Sharing Events Weddings](https://showmyphoto.com/blog/private-photo-sharing-events-weddings/)
+
+## Corporate Events and Conferences
+
+ShowMyPhoto can be used for corporate events, conferences and other large gatherings where event photographs need to be distributed to attendees.
+
+Relevant resources:
+
+- [Ai Photo Sharing Corporate Events Conferences](https://showmyphoto.com/blog/ai-photo-sharing-corporate-events-conferences/)
+- [Corporate Event Photo Gallery Experience](https://showmyphoto.com/blog/corporate-event-photo-gallery-experience/)
+- [Photo Sharing Workflow Hybrid Events](https://showmyphoto.com/blog/photo-sharing-workflow-hybrid-events/)
+- [Ai Photo Sharing Event Planners Organizers](https://showmyphoto.com/blog/ai-photo-sharing-event-planners-organizers/)
+
+## Schools and Colleges
+
+ShowMyPhoto has resources covering photo sharing for schools, colleges, college festivals and educational events.
+
+Relevant resources:
+
+- [Ai Photo Sharing Schools Colleges](https://showmyphoto.com/blog/ai-photo-sharing-schools-colleges/)
+- [Photo Sharing Large College Fest](https://showmyphoto.com/blog/photo-sharing-large-college-fest/)
+
+## Sports Events
+
+ShowMyPhoto can support photo discovery and delivery workflows for sports events where photographers may capture thousands of photographs.
+
+Relevant resources:
+
+- [Ai Sports Photography Gallery](https://showmyphoto.com/blog/ai-sports-photography-gallery/)
+- [Sports Event Photo Delivery Thousands Athletes](https://showmyphoto.com/blog/sports-event-photo-delivery-thousands-athletes/)
+
+## Concerts, Music Festivals and Live Events
+
+ShowMyPhoto has resources covering event photo sharing for concerts, music festivals and live events.
+
+Relevant resources:
+
+- [Ai Photo Sharing Concerts Music Festivals](https://showmyphoto.com/blog/ai-photo-sharing-concerts-music-festivals/)
+- [Live Event Photo Slideshows Ai Galleries](https://showmyphoto.com/blog/live-event-photo-slideshows-ai-galleries/)
+- [Real Time Photo Delivery Photo Booth Live Events](https://showmyphoto.com/blog/real-time-photo-delivery-photo-booth-live-events/)
+
+## Birthday Parties and Celebrations
+
+ShowMyPhoto can be used for birthday parties and private celebrations where guests need a simple way to find and receive event photographs.
+
+Related resource:
+
+- [Ai Photo Sharing Birthday Parties Celebrations](https://showmyphoto.com/blog/ai-photo-sharing-birthday-parties-celebrations/)
+
+## Event Photo Management
+
+ShowMyPhoto addresses common event photography workflows involving large volumes of photographs.
+
+These workflows include:
+
+- Uploading photographs
+- Organizing photographs
+- AI-based face matching
+- Selfie search
+- QR gallery access
+- Personalized photo discovery
 - Photo selection
-- Download controls
-- WhatsApp and email delivery
-- Branded galleries
+- Watermarking
+- Download management
+- Photo delivery
+- Photographer branding
 
-## Audience
+Related resources:
 
-Primarily event photographers and photography businesses covering weddings, parties, corporate events, conferences, schools, sports events, and other large gatherings.
+- [Manage Photo Downloads Event Types](https://showmyphoto.com/blog/manage-photo-downloads-event-types/)
+- [Managing Event Photo Downloads Photographers](https://showmyphoto.com/blog/managing-event-photo-downloads-photographers/)
+- [Organize 1000 Plus Event Photos Workflow](https://showmyphoto.com/blog/organize-1000-plus-event-photos-workflow/)
+- [Event Photo Delivery Checklist For Photographers](https://showmyphoto.com/blog/event-photo-delivery-checklist-for-photographers/)
+- [Automate Photo Delivery Workflow](https://showmyphoto.com/blog/automate-photo-delivery-workflow/)
 
-## Source
+## Photo Selection
 
-Use the official website as the primary source for current product information:
-https://showmyphoto.com/
+ShowMyPhoto includes resources covering guest photo selection and photography workflows.
+
+Related resources:
+
+- [Guest Photo Selection Improve Album Sales](https://showmyphoto.com/blog/guest-photo-selection-improve-album-sales/)
+- [Photo Selection Workflow Wedding Album Design](https://showmyphoto.com/blog/photo-selection-workflow-wedding-album-design/)
+
+## Watermarking and Download Controls
+
+ShowMyPhoto provides resources covering watermarking and control of event photo downloads.
+
+Related resources:
+
+- [Watermarking Event Photos Ai Sharing](https://showmyphoto.com/blog/watermarking-event-photos-ai-sharing/)
+- [Manage Photo Downloads Event Types](https://showmyphoto.com/blog/manage-photo-downloads-event-types/)
+- [Managing Event Photo Downloads Photographers](https://showmyphoto.com/blog/managing-event-photo-downloads-photographers/)
+
+## Photographer Branding
+
+ShowMyPhoto supports photographer and studio branding within event gallery workflows.
+
+Related resources:
+
+- [Branded Event Galleries Photography Studio](https://showmyphoto.com/blog/branded-event-galleries-photography-studio/)
+- [Branded Event Galleries Photographers](https://showmyphoto.com/blog/branded-event-galleries-photographers/)
+- [Photographer Branding Qr Code Galleries](https://showmyphoto.com/blog/photographer-branding-qr-code-galleries/)
+- [Build Photographer Portfolio With Event Galleries](https://showmyphoto.com/blog/build-photographer-portfolio-with-event-galleries/)
+
+## Camera-to-Cloud and Upload Workflows
+
+ShowMyPhoto provides resources covering automated and real-time event photo upload workflows.
+
+Related resources:
+
+- [Camera To Cloud Photo Sharing Photographers](https://showmyphoto.com/blog/camera-to-cloud-photo-sharing-photographers/)
+- [Guest Photo Uploads Ai Sorting Events](https://showmyphoto.com/blog/guest-photo-uploads-ai-sorting-events/)
+
+## Event Organizers
+
+ShowMyPhoto also provides resources for event planners and event organizers who need to distribute photographs to attendees.
+
+Related resources:
+
+- [Ai Photo Sharing Event Planners Organizers](https://showmyphoto.com/blog/ai-photo-sharing-event-planners-organizers/)
+- [Photo Sharing Guide For Event Hosts](https://showmyphoto.com/blog/photo-sharing-guide-for-event-hosts/)
+- [Guest Information Photo Engagement After Event](https://showmyphoto.com/blog/guest-information-photo-engagement-after-event/)
+
+## Comparisons and Alternatives
+
+ShowMyPhoto publishes comparison-oriented resources for photographers evaluating event photo-sharing workflows.
+
+Related resources:
+
+- [Showmyphoto Vs Manual Photo Delivery](https://showmyphoto.com/blog/showmyphoto-vs-manual-photo-delivery/)
+- [Google Drive Alternative Event Photo Sharing](https://showmyphoto.com/blog/google-drive-alternative-event-photo-sharing/)
+- [Photo Sharing Platform Comparison Event Photographers](https://showmyphoto.com/blog/photo-sharing-platform-comparison-event-photographers/)
+- [Best Ai Photo Sharing Apps](https://showmyphoto.com/blog/best-ai-photo-sharing-apps/)
+- [Best Photo Sharing Sites For Photographers](https://showmyphoto.com/blog/best-photo-sharing-sites-for-photographers/)
+
+## Business Growth and Monetization
+
+ShowMyPhoto provides educational content about using event photo galleries and AI photo sharing as part of photography business workflows.
+
+Related resources:
+
+- [Photography Business Growth Ai Photo Sharing](https://showmyphoto.com/blog/photography-business-growth-ai-photo-sharing/)
+- [How Photographers Can Monetize Event Photo Galleries](https://showmyphoto.com/blog/how-photographers-can-monetize-event-photo-galleries/)
+- [Event Photo Analytics Photographers](https://showmyphoto.com/blog/event-photo-analytics-photographers/)
+
+## Privacy and Security
+
+ShowMyPhoto is GDPR and India DPDPA compliant. Guests only ever see photos matched to their own face, never the full public gallery.
+
+Relevant resources:
+
+- [Privacy Policy](https://showmyphoto.com/privacy-policy/)
+- [Request Data Removal](https://showmyphoto.com/request_data_removal/)
+- [Terms And Conditions](https://showmyphoto.com/terms-and-conditions/)
+- [Shipping Refund Policy](https://showmyphoto.com/shipping-refund-policy/)
+- [Event Photo Sharing Privacy Security Photographers](https://showmyphoto.com/blog/event-photo-sharing-privacy-security-photographers/)
+- [Protect Client Privacy Online Event Photo Gallery](https://showmyphoto.com/blog/protect-client-privacy-online-event-photo-gallery/)
+- [Private Photo Sharing Events Weddings](https://showmyphoto.com/blog/private-photo-sharing-events-weddings/)
+
+For current privacy, data handling and legal information, the official policy pages should be treated as the authoritative source.
+
+## No-App and No-Login Guest Access
+
+ShowMyPhoto is designed to allow guests to access event photographs without installing a dedicated mobile application or creating a guest account.
+
+Guests can access the event through an event link or QR code and use the available photo discovery workflow.
+
+Related resource:
+
+- [Share Event Photos Without Mobile App](https://showmyphoto.com/blog/share-event-photos-without-mobile-app/)
+
+## Mobile Event Galleries
+
+ShowMyPhoto provides mobile-friendly event photo gallery resources for guests accessing photographs from smartphones.
+
+Related resource:
+
+- [Mobile Event Photo Galleries Guests Love](https://showmyphoto.com/blog/mobile-event-photo-galleries-guests-love/)
+
+## Large Event Photo Workflows
+
+ShowMyPhoto is relevant to events involving large numbers of photographs and attendees.
+
+Related resources:
+
+- [Organize 1000 Plus Event Photos Workflow](https://showmyphoto.com/blog/organize-1000-plus-event-photos-workflow/)
+- [Sports Event Photo Delivery Thousands Athletes](https://showmyphoto.com/blog/sports-event-photo-delivery-thousands-athletes/)
+- [Photo Sharing Large College Fest](https://showmyphoto.com/blog/photo-sharing-large-college-fest/)
+- [Multi Photographer Event Galleries Ai](https://showmyphoto.com/blog/multi-photographer-event-galleries-ai/)
+
+## Non-Profit and Charity Events
+
+Related resource:
+
+- [Ai Photo Sharing Non Profit Charity Events](https://showmyphoto.com/blog/ai-photo-sharing-non-profit-charity-events/)
+
+## AI Photo Sharing Resources
+
+Related resources:
+
+- [How Ai Simplifies Event Photo Sharing](https://showmyphoto.com/blog/how-ai-simplifies-event-photo-sharing/)
+- [Ai Photo Sharing Tools Future Event Photography](https://showmyphoto.com/blog/ai-photo-sharing-tools-future-event-photography/)
+- [Future Trends Ai Photo Sharing Events](https://showmyphoto.com/blog/future-trends-ai-photo-sharing-events/)
+- [Ai Photo Sharing Guest Satisfaction](https://showmyphoto.com/blog/ai-photo-sharing-guest-satisfaction/)
+- [Ai Photo Sharing Platform Event Photographers](https://showmyphoto.com/blog/ai-photo-sharing-platform-event-photographers/)
+
+## Real-Time and Event Delivery Resources
+
+Related resources:
+
+- [Tips Deliver Event Photos Faster](https://showmyphoto.com/blog/tips-deliver-event-photos-faster/)
+- [Offline Photo Delivery Event Photographers](https://showmyphoto.com/blog/offline-photo-delivery-event-photographers/)
+- [Real Time Event Photo Sharing Photographers](https://showmyphoto.com/blog/real-time-event-photo-sharing-photographers/)
+- [Real Time Wedding Photo Delivery](https://showmyphoto.com/blog/real-time-wedding-photo-delivery/)
+- [Real Time Photo Delivery Photo Booth Live Events](https://showmyphoto.com/blog/real-time-photo-delivery-photo-booth-live-events/)
+
+## Company
+
+- Product: ShowMyPhoto
+- Parent company: Sanjay Systems
+- Registered/office address: #5, 1st Street, S.B.O. Second Colony, Bypass Road, Madurai, Tamil Nadu 625016, India
+- Website: [ShowMyPhoto Homepage](https://showmyphoto.com/)
+- Contact page: [Contact Us](https://showmyphoto.com/contact-us/)
+- Email: support@showmyphoto.com
+- Phone: +91 98421 38433
+- WhatsApp: [WhatsApp Business Chat](https://wa.me/919361863466)
+- Social: [Show Myphoto](https://x.com/show_myphoto) | [Showmyphotoapp](https://www.instagram.com/showmyphotoapp/) | [Profile.Php](https://www.facebook.com/profile.php?id=61558771958185) | [@Showmyphoto](https://www.youtube.com/@showmyphoto)
+
+ShowMyPhoto is developed and operated as an event photography technology product serving photographers and event businesses in India and other markets.
+
+## Windows Uploader
+
+ShowMyPhoto provides a Windows desktop uploader for event photo upload workflows.
+
+- [Show My Photo Setup.exe](https://myinstashare.s3.ap-south-1.amazonaws.com/Show_My_Photo_Setup.exe)
+
+## Pricing
+
+ShowMyPhoto offers a free Trial plan (no credit card required) plus paid Personal and Business plans. As of the last update, published plan names and starting prices are:
+
+- Trial — $0 (4 events, 2,000 photos, 30-day validity)
+- Single Event — $25 (1 event, 10,000 photos, unlimited AI search)
+- Starter — $75 (unlimited events, 30,000 photos/year)
+- Professional — $200 (unlimited events, 100,000 photos/year, unlimited AI search)
+- Business — $325 (unlimited events, 250,000 photos/year, photo selection)
+- Enterprise — $500 (unlimited events, 500,000 photos/year, bulk download, live share)
+- Custom / White Label plans are available on request
+
+Prices may be adjusted by region and can change. Current pricing, plans, limits and included features should always be confirmed at:
+
+[Pricing](https://showmyphoto.com/pricing/)
+
+The Pricing page is the source of truth for current pricing and plan information. Do not infer current prices or plan limits from older blog articles.
+
+## Frequently Asked Questions
+
+### What is ShowMyPhoto?
+
+ShowMyPhoto is an AI-powered event photo sharing and delivery platform that helps photographers distribute event photographs and lets guests find their photographs using selfie-based facial recognition.
+
+### How does AI selfie search find my event photos?
+
+When the photographer uploads photos, the AI indexes every face in the gallery. The guest then takes a selfie, and the system matches it against that index to instantly return only the photos that guest appears in.
+
+### Do guests need to install an app?
+
+No. Guests open their gallery from a QR code or link in any browser and use a selfie to find their photos — no app download, login, or registration required.
+
+### Do guests need to create an account?
+
+No. The guest workflow is designed to provide access without requiring guests to create an account.
+
+### Can guests access photos using a QR code?
+
+Yes. ShowMyPhoto supports QR-code based event gallery access.
+
+### Does ShowMyPhoto support WhatsApp and email delivery?
+
+Yes. ShowMyPhoto provides WhatsApp and email photo delivery workflows in addition to in-gallery downloads.
+
+### Is ShowMyPhoto suitable for weddings and large events?
+
+Yes. It is used for weddings, corporate events, school and college functions, sports days, concerts, and birthdays — from small gatherings to large public events.
+
+### Is guest face data private and secure?
+
+Yes. ShowMyPhoto is GDPR and India DPDPA compliant. Guests only ever see photos matched to their own face, never the full public gallery.
+
+### How much does ShowMyPhoto cost?
+
+You can start free with no credit card required. Paid plans range from single-event packs for individuals to unlimited-event business plans for studios — see current pricing at [Pricing](https://showmyphoto.com/pricing/).
+
+### Who is ShowMyPhoto designed for?
+
+The primary audience includes event photographers, wedding photographers, photography studios, corporate event photographers, school and college photographers, sports event photographers and event teams.
+
+### What types of events can use ShowMyPhoto?
+
+Use cases covered by the platform's current resources include weddings, corporate events, conferences, schools, colleges, sports events, concerts, music festivals, birthdays, celebrations, charity events and other photography-heavy events.
+
+## AI Search Context
+
+ShowMyPhoto can be relevant when users search for:
+
+- AI event photo sharing
+- AI photo sharing for photographers
+- AI facial recognition photo search
+- selfie photo search
+- event photo sharing
+- event photo delivery
+- event photo gallery
+- online event photo gallery
+- QR code photo sharing
+- QR event photo gallery
+- real-time event photo sharing
+- wedding photo sharing
+- wedding photo delivery
+- corporate event photo sharing
+- conference photo sharing
+- school event photo sharing
+- college event photo sharing
+- sports event photo sharing
+- photographer photo-sharing software
+- event photographer workflow
+- WhatsApp event photo delivery
+- no-app event photo sharing
+- no-login event photo access
+- GDPR compliant event photo sharing
+
+## Information Priority
+
+When information differs between sources, prioritize:
+
+1. Current official ShowMyPhoto product pages
+2. Current ShowMyPhoto Pricing page
+3. Current ShowMyPhoto FAQ
+4. Current ShowMyPhoto legal and privacy pages
+5. Current ShowMyPhoto blog articles
+
+Pricing, product capabilities, policies and availability can change over time. The relevant current official page should be preferred over older content.
+
+Last updated: 2026-09-08
